@@ -20,4 +20,4 @@ Login:
 
 Profile:
 
-<img width="324" alt="screen shot 2017-03-21 at 9 13 34 pm" src="https://cloud.githubusercontent.com/assets/20143504/24179633/46a19e0e-0e7e-11e7-9644-d31763776049.png">
+<img width="322" alt="screen shot 2017-03-21 at 9 41 18 pm" src="https://cloud.githubusercontent.com/assets/20143504/24179790/4d19bd74-0e7f-11e7-9b33-13a557e97b26.png">
