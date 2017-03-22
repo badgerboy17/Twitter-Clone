@@ -9,3 +9,7 @@ How To use:
 Welcome Screen:
 
 <img width="324" alt="screen shot 2017-03-21 at 9 12 30 pm" src="https://cloud.githubusercontent.com/assets/20143504/24179526/9ad0fba6-0e7d-11e7-81e0-a0bf9c01ee58.png">
+
+Sign Up:
+
+<img width="322" alt="screen shot 2017-03-21 at 9 12 48 pm" src="https://cloud.githubusercontent.com/assets/20143504/24179569/e3b5ba78-0e7d-11e7-94f5-c66cf8b07b7f.png">
