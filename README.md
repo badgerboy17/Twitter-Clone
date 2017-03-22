@@ -14,6 +14,10 @@ Sign Up:
 
 <img width="322" alt="screen shot 2017-03-21 at 9 12 48 pm" src="https://cloud.githubusercontent.com/assets/20143504/24179569/e3b5ba78-0e7d-11e7-94f5-c66cf8b07b7f.png">
 
+Info:
+
+<img width="321" alt="screen shot 2017-03-21 at 9 40 51 pm" src="https://cloud.githubusercontent.com/assets/20143504/24179819/9428e186-0e7f-11e7-8e0f-26488708ba3a.png">
+
 Login:
 
 <img width="322" alt="screen shot 2017-03-21 at 9 41 36 pm" src="https://cloud.githubusercontent.com/assets/20143504/24179808/7751e8fa-0e7f-11e7-9eca-6971e132891a.png">
